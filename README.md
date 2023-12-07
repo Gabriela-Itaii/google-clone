@@ -1,4 +1,4 @@
-![image](https://github.com/Gabriela-Itaii/google-clone/assets/113000034/6a6000b9-9c6d-4bf0-b227-c4ad71d9e782)# PÁGINA CLONE DE GOOGLE
+# PÁGINA CLONE DE GOOGLE
 ## Descripción 
 Hello, this is my first projetct: a **google clon** interface.
 
